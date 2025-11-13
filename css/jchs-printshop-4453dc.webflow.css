@@ -815,6 +815,15 @@ body {
   display: block;
 }
 
+.code-embed {
+  padding: 0;
+  font-size: 20px;
+}
+
+.code-embed-2 {
+  font-size: 20px;
+}
+
 @media screen and (max-width: 991px) {
   .container {
     max-width: 728px;
